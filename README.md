@@ -13,8 +13,8 @@ A **common filter panel** (Year, Product, Location) is integrated across both pa
   - KPIs: Total Sales ($733K, ▲20.36% vs PY), Profit ($93K, ▲14.24% vs PY), Quantity (12,476, ▲26.83% vs PY).  
   - Subcategory analysis: Sales & Profit distribution across product lines.  
   - Trend charts: Monthly sales and profit vs 2022 with highest/lowest month markers.  
-- **View Page Screenshot:** [Sales Dashboard](https://github.com/Amit-DataDoc23/Sales-Customer-Dashboard/blob/3beea65a29340fccdadd0adfc189fc91fceeb842/Sales%20Dashboard.png)  
-*(Replace with actual screenshot path in repo)*
+
+![Sales Dashboard](https://github.com/Amit-DataDoc23/Sales-Customer-Dashboard/blob/c3b859543b8dc1a325521e3f1a671743b56e3b9f/Sales%20Dashboard.png)
 
 ---
 
@@ -23,14 +23,14 @@ A **common filter panel** (Year, Product, Location) is integrated across both pa
   - KPIs: Total Customers (693, ▲8.6% vs PY), Sales per Customer ($1,058.03, ▲10.8% vs PY), Orders (1,687, ▲28.3% vs PY).  
   - Distribution: Customer segmentation by number of orders.  
   - Profitability: Top 10 customers ranked by profit with sales and order history.  
-- **View Page Screenshot:** [Customer Dashboard](https://github.com/Amit-DataDoc23/Sales-Customer-Dashboard/blob/3beea65a29340fccdadd0adfc189fc91fceeb842/Customer%20dashboard.png)  
-*(Replace with actual screenshot path in repo)*
+
+![Customer Dashboard](https://github.com/Amit-DataDoc23/Sales-Customer-Dashboard/blob/c3b859543b8dc1a325521e3f1a671743b56e3b9f/Customer%20dashboard.png)
 
 ---
 
 ## 🌐 Tableau Server View
 Access the live interactive dashboard here: [View on Tableau Server](https://public.tableau.com/views/SalesCustomerDashboard_17843820457220/SalesDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-*(Replace with your actual Tableau Server dashboard link.)*
+
 
 ---
 
