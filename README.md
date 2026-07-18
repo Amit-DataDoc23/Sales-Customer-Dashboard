@@ -10,7 +10,7 @@ A **common filter panel** (Year, Product, Location) is integrated across both pa
 
 ### 1️⃣ Sales Dashboard Page
 - **Highlights**
-  - KPIs: Total Sales ($733K, ▲20.36% vs PY), Profit ($93K, ▲14.24% vs PY), Quantity (12,476, ▲26.83% vs PY).  
+  - Dynamic KPIs: Total Sales ($733K, ▲20.36% vs PY), Profit ($93K, ▲14.24% vs PY), Quantity (12,476, ▲26.83% vs PY).  
   - Subcategory analysis: Sales & Profit distribution across product lines.  
   - Trend charts: Monthly sales and profit vs 2022 with highest/lowest month markers.  
 
@@ -20,7 +20,7 @@ A **common filter panel** (Year, Product, Location) is integrated across both pa
 
 ### 2️⃣ Customer Dashboard Page
 - **Highlights**
-  - KPIs: Total Customers (693, ▲8.6% vs PY), Sales per Customer ($1,058.03, ▲10.8% vs PY), Orders (1,687, ▲28.3% vs PY).  
+  - Dynamic KPIs: Total Customers (693, ▲8.6% vs PY), Sales per Customer ($1,058.03, ▲10.8% vs PY), Orders (1,687, ▲28.3% vs PY).  
   - Distribution: Customer segmentation by number of orders.  
   - Profitability: Top 10 customers ranked by profit with sales and order history.  
 
