@@ -6,13 +6,13 @@ A **common filter panel** (Year, Product, Location) is integrated across both pa
 
 ---
 ## 📂 Dashboard Pages
-- [Sales Dashboard Page](https://github.com/Amit-DataDoc23/Sales-Customer-Dashboard/blob/984348a1b3cd069468fffcd5023da62d0727ea7a/Sales%20Dashboard.png)  
+- (https://github.com/Amit-DataDoc23/Sales-Customer-Dashboard/blob/984348a1b3cd069468fffcd5023da62d0727ea7a/Sales%20Dashboard.png)  
 - **Sales Dashboard (2023)**  
   - Dynamic KPIs: Total Sales ($733K, ▲20.36% vs PY), Profit ($93K, ▲14.24% vs PY), Quantity (12,476, ▲26.83% vs PY).  
   - Subcategory analysis: Sales & Profit distribution across product lines.  
   - Trend charts: Monthly sales and profit vs 2022 with highest/lowest month markers.
 ---
-- [Customer Dashboard Page](https://github.com/Amit-DataDoc23/Sales-Customer-Dashboard/blob/984348a1b3cd069468fffcd5023da62d0727ea7a/Customer%20dashboard.png)
+- (https://github.com/Amit-DataDoc23/Sales-Customer-Dashboard/blob/984348a1b3cd069468fffcd5023da62d0727ea7a/Customer%20dashboard.png)
 - **Customer Dashboard (2023)**  
   - Dynamic KPIs: Total Customers (693, ▲8.6% vs PY), Sales per Customer ($1,058.03, ▲10.8% vs PY), Orders (1,687, ▲28.3% vs PY).  
   - Distribution: Customer segmentation by number of orders.  
